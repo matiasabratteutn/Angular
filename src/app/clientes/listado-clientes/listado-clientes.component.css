@@ -3,7 +3,7 @@ article {
     border-bottom: 1px solid #ddd;
     padding: 10px;
     font-size: 0.9em;
-    
+
 }
 
 .TituloLista{
@@ -13,7 +13,7 @@ article {
 
 span {
     display: inline-block;
-    width: 22%;
+    width: 23%;
     margin-right: 2%;
 }
 
@@ -21,7 +21,7 @@ span {
 
 .ordenD {
 
-   
+
     display: inline-flex;
     background: rgba(122, 137, 160, 0.973);
     padding: 2px;
@@ -29,7 +29,7 @@ span {
 
 }
 .ordenA {
-    
+
     display: inline-flex;
     background: rgba(122, 137, 160, 0.973);
     padding: 2px;
