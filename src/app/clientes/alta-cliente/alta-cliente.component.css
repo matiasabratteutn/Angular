@@ -21,10 +21,10 @@
 }
 .botonGuardar{
 
-    margin: 14px;
+    margin: 15px;
     display: flex;
     background: rgba(123, 138, 160, 0.973);
     padding: 2px;
-    border-radius: 8px;
+    border-radius: 9px;
 
 }
